@@ -18,8 +18,3 @@ body {
 }
 
 /* Write all remaining styles here */
-
-.col-1 {
-	float: left;
-	width: 25% auto;
-}
